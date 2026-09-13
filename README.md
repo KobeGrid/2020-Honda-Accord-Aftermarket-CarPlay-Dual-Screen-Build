@@ -34,3 +34,15 @@ Cable management: Still a work in progress — cables are currently loose near t
  Confirm exact adapter model/firmware version
  Clean up wire routing (hide behind trim or along the console)
  Confirm wired vs wireless CarPlay pairing behavior
+
+Impressions So Far
+Working well: Clean home screen, both CarPlay and Android Auto supported on one device, factory screen stays fully usable at the same time
+Annoying: Cable management — the bundle of wires is currently just loose in the console area
+Would do differently: Probably route and hide the wiring before calling the install "done"
+Future Updates
+ Nail down exact adapter brand/model and link it here
+ Add a wiring diagram once cable routing is finalized
+ Note any firmware updates from the manufacturer
+ Long-term reliability notes (does it stay connected, any lag, etc.)
+
+This is a personal build log, not a certified install guide — mileage may vary by trim/year, and any 12V/wiring work carries the usual risks. Log updated as the project evolves.
